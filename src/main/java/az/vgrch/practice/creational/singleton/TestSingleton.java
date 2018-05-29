@@ -1,4 +1,4 @@
-package az.vgrch.practice.singleton;
+package az.vgrch.practice.creational.singleton;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -18,7 +18,7 @@ public class TestSingleton {
             executorService.execute(new Runnable() {
                 @Override
                 public void run() {
-                    System.out.println(Thread.currentThread().getName() + " " + LazyInitializedSingleton.getInstance().getName());
+                    System.out.println(Thread.currentThread().getName() + " " + LazyInitializedSingleton.getInstance().toString());
                 }
             });
         }

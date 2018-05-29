@@ -1,4 +1,4 @@
-package az.vgrch.practice.singleton;
+package az.vgrch.practice.creational.singleton;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

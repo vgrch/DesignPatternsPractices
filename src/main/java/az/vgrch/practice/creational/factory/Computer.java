@@ -1,4 +1,4 @@
-package az.vgrch.practice.factory;
+package az.vgrch.practice.creational.factory;
 
 public abstract class Computer {
 

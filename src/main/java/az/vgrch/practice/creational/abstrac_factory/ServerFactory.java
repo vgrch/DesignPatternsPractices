@@ -1,4 +1,4 @@
-package az.vgrch.practice.abstrac_factory;
+package az.vgrch.practice.creational.abstrac_factory;
 
 public class ServerFactory implements ComputerAbstractFactory {
 

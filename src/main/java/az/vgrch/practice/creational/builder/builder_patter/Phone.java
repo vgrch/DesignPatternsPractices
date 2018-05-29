@@ -1,4 +1,4 @@
-package az.vgrch.practice.builder.builder_patter;
+package az.vgrch.practice.creational.builder.builder_patter;
 
 public class Phone {
 

@@ -1,4 +1,4 @@
-package az.vgrch.practice.singleton;
+package az.vgrch.practice.creational.singleton;
 
 public class EagerInitializedSingleton {
 

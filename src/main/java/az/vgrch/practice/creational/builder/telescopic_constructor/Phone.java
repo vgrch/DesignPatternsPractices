@@ -1,4 +1,4 @@
-package az.vgrch.practice.builder.telescopic_constructor;
+package az.vgrch.practice.creational.builder.telescopic_constructor;
 
 public class Phone {
 
